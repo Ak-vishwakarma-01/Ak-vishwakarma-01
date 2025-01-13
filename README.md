@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-vishwakarma-01&label=Profile%20views&color=0e75b6&style=flat" alt="ak-vishwakarma-01" /> </p>
 
-<p align="left"> <a href="https://github.com/ak-vishwakarma-01"><img src="https://github-profile-trophy.vercel.app/?username=ak-vishwakarma-01" alt="ak-vishwakarma-01" /></a> </p>
-
 - 🔭 I’m currently working on **E-commerce Website**
 - 🌱 I’m currently learning **Android Application with Dart and Flutter**
 - 👨‍💻 All of my projects are available at [https://akvishportfolio.netlify.app/](https://akvishportfolio.netlify.app/)
