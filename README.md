@@ -7,11 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3a9cf2&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Software+Developer+from+India;I+Love+Building+Awesome+Things!;Open+Source+%7C+Web+%7C+Cloud+%7C+Tech+Enthusiast" alt="Typing SVG">
 </h3>
 
-
 <!-- Profile counts -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
  </p>
+
+---
  
 <!-- About Me -->
 <div>
@@ -24,6 +25,7 @@
 - 📫 Reach me at: **✉️ akv7115@gmail.com**  
 >
 
+---
 
 <!-- Connect With me -->
 <div align="center">
@@ -54,6 +56,7 @@
 </p>
 </div>
 
+---
 
 <!-- Languages and Tools -->
 <div align="center">
@@ -66,15 +69,60 @@
 </div>
 
 
+---
 
-<!-- Stats -->
+<!-- LeetCode Stats -->
 <div align="center">
-  <h2 align="left"> 🔥 Stats<h2>
+  <h2 align="left">⚡ LeetCode Stats</h2>
+  <img src="https://leetcard.jacoblin.cool/ak_vishwakarma_1?theme=dark&font=Montserrat&ext=heatmap" width="50%" />
+</div>
+
+---
+
+<!-- GeeksforGeeks Stats -->
+<div align="center">
+  <h2 align="left">🚀 GeeksforGeeks Stats</h2>
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ak_vishwakarma_1" width="50%" />
+</div>
+
+---
+
+<!-- Coding Ninjas -->
+<div align="center">
+  <h2 align="left">🎯 Coding Ninjas Profile</h2>
+  <p>Check out my Coding Ninjas profile:</p>
+  <a href="https://www.codingninjas.com/codestudio/profile/ak_vishwakarma" target="_blank">
+    <img src="https://img.shields.io/badge/CodingNinjas-Profile-orange?style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+<!-- CodeChef Stats -->
+<div align="center">
+  <h2 align="left">🥇 CodeChef Stats</h2>
+  <img src="https://cp-logo.vercel.app/codechef/ak_vishwakarma" width="50%" />
+</div>
+
+---
+
+<!-- Codeforces Stats -->
+<div align="center">
+  <h2 align="left">🏆 Codeforces Stats</h2>
+  <img src="https://cf.leed.at/ak_vishwakarma_1" width="50%" />
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2 align="left"> 🔥GitHub Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-vishwakarma-01&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
+---
 
 <!-- Snake Animation -->
 <div align="center">
