@@ -54,24 +54,32 @@
 ---
 
 <!-- Languages and Tools -->
-<div align="center">
-  <h2 align="left">🎯 Tech Stacks:</h2>
-  
- <h3>💻 Languages:</h3> <img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
+## 🎯 Tech Stacks  
 
-- **🌐 Web Development:**
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
+</p>  
 
-- **🛠️ Libraries & Frameworks:**
-<img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
+### 🌐 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>  
 
-- **📂 Databases:**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+### 🛠️ Libraries & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
+</p>  
 
-- **🚀 Tools & Platforms:**
-<img src="https://skillicons.dev/icons?i=git,linux,postman,maven,google" />
+### 📂 Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>  
 
-</div>
+### 🚀 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,maven,googlecloud" />
+</p>  
 
 
 ---
