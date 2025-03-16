@@ -54,7 +54,7 @@
 ---
 
 <!-- Languages and Tools -->
-<div align="left">
+<div align="center">
   <h2 align="left">🎯 Tech Stacks:</h2>
   
  <h3>💻 Languages:</h3> <img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
