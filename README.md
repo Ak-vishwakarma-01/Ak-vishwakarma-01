@@ -67,17 +67,17 @@
 <img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
 
 - **📂 Databases:**
-<img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 - **🚀 Tools & Platforms:**
-<img src="https://skillicons.dev/icons?i=git,linux,postman,maven,cloud" />
+<img src="https://skillicons.dev/icons?i=git,linux,postman,maven,google" />
 
 </div>
 
 
 ---
 
-<-- LeetCode Stats -->
+<!-- LeetCode Stats -->
 <div align="center">
   <h2 align="left">⚡ LeetCode Stats</h2>
   <img src="https://leetcard.jacoblin.cool/ak_vishwakarma_1?theme=dark&font=Montserrat&ext=heatmap" width="50%" />
