@@ -57,8 +57,7 @@
 <div align="left">
   <h2 align="left">🎯 Tech Stacks:</h2>
   
-- **💻 Languages:**
-<img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
+- **💻 Languages:** <img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
 
 - **🌐 Web Development:**
 <img src="https://skillicons.dev/icons?i=html,css,js" />
