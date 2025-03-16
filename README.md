@@ -48,7 +48,6 @@
     <img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks">
   </a>
 </p>
-
 </div>
 
 <!-- Languages and Tools -->
