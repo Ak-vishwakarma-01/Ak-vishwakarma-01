@@ -55,11 +55,22 @@
 
 <!-- Languages and Tools -->
 <div align="center">
-  <h2 align="left">🎯 Tech Stack:</h2>
+  <h2 align="left">🎯 Tech Stacks:</h2>
+  
+- **💻 Languages:**
+!<img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,flutter,dart,java,spring,cpp,python,nodejs,express,mongodb,mysql,postgres,git,linux,tailwind,postman" />
-</p>
+- **🌐 Web Development:**
+!<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+- **🛠️ Libraries & Frameworks:**
+!<img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
+
+- **📂 Databases:**
+!<img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" />
+
+- **🚀 Tools & Platforms:**
+!<img src="https://skillicons.dev/icons?i=git,linux,postman,maven,cloud" />
 
 </div>
 
