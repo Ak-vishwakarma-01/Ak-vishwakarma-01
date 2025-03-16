@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak-vishwakarma-01&show_icons=true&locale=en" alt="ak-vishwakarma-01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-vishwakarma-01" alt="Ak-vishwakarma-01" /></p>
 
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Ak-vishwakarma-01/Ak-vishwakarma-01/blob/output/github-snake-dark.svg)
+</div>
