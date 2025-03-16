@@ -54,30 +54,30 @@
 ---
 
 <!-- Languages and Tools -->
-<div align="center">
+<div align="left">
   <h2 align="left">🎯 Tech Stacks:</h2>
   
 - **💻 Languages:**
-!<img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
+<img src="https://skillicons.dev/icons?i=js,java,cpp,dart,python" />
 
 - **🌐 Web Development:**
-!<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 - **🛠️ Libraries & Frameworks:**
-!<img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
 
 - **📂 Databases:**
-!<img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb" />
 
 - **🚀 Tools & Platforms:**
-!<img src="https://skillicons.dev/icons?i=git,linux,postman,maven,cloud" />
+<img src="https://skillicons.dev/icons?i=git,linux,postman,maven,cloud" />
 
 </div>
 
 
 ---
 
-<!-- LeetCode Stats -->
+<-- LeetCode Stats -->
 <div align="center">
   <h2 align="left">⚡ LeetCode Stats</h2>
   <img src="https://leetcard.jacoblin.cool/ak_vishwakarma_1?theme=dark&font=Montserrat&ext=heatmap" width="50%" />
