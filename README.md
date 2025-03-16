@@ -16,13 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
  </p>
  
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Passionate+Software+Developer;Building+Awesome+Projects;Learning+Flutter+%26+Dart;Always+Exploring+New+Tech!">
-</p>
-
+<!-- About Me -->
+<div align="center">
+  <h2 align="center">🚀 About Me</h2>
 ---
 
 - 🔭 I’m currently working on **<span style="color:#FFB000;">E-commerce Website</span>** 🛒  
@@ -31,6 +27,7 @@
 - 📫 Reach me at: **✉️ akv7115@gmail.com**  
 
 ---
+>
 
 🎯 **Tech Stack:**  
 <p align="center">
