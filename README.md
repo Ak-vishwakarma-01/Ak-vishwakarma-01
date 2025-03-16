@@ -1,6 +1,6 @@
 <!-- Name and Desc -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+AK+Vishwakarma" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=47ed92&center=true&vCenter=true&width=450&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+AK+Vishwakarma" alt="Typing SVG">
 </h1>
 
 <h3 align="center">
@@ -70,9 +70,9 @@
 <!-- Stats -->
 <div align="center">
   <h2 align="left"> 🔥 Stats<h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-vishwakarma-01&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ak-vishwakarma-01&theme=aura&color=47ed92&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-vishwakarma-01&theme=aura&color=47ed92&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-vishwakarma-01&theme=aura&color=47ed92&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 
@@ -80,7 +80,7 @@
 <div align="center">
 
   <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3a9cf2&center=true&vCenter=true&width=600&height=50&lines=aise..+aise..+aise..+💀+Khaunga+Sabko;Sab+Kha+😋+Jaunga;Le+Bhaiyaa+streak......(❁´◡`❁)" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=ed5c69&center=true&vCenter=true&width=600&height=50&lines=aise..+aise..+aise..+💀+Khaunga+Sabko;Sab+Kha+😋+Jaunga;Le+Bhaiyaa+streak......╚(•⌂•)╝" alt="Typing SVG">
 </h3>
   
   ![snake gif](https://github.com/Ak-vishwakarma-01/Ak-vishwakarma-01/blob/output/github-snake-dark.svg)
