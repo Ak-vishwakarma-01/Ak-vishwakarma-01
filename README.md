@@ -62,7 +62,7 @@
   <h2 align="left">🎯 Tech Stack:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,flutter,dart,java,spring,cpp,python,nodejs,express,mongodb,mysql,postgres,android,git,linux,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,flutter,dart,java,spring,cpp,python,nodejs,express,mongodb,mysql,postgres,mobile,git,linux,tailwind,postman" />
 </p>
 
 </div>
