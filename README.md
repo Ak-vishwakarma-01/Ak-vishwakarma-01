@@ -15,11 +15,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
  </p>
+ 
 
-- 🔭 I’m currently working on **E-commerce Website**
-- 🌱 I’m currently learning **Android Application with Dart and Flutter**
-- 👨‍💻 All of my projects are available at [https://akvishportfolio.netlify.app/](https://akvishportfolio.netlify.app/)
-- 📫 How to reach me **akv7115@gmail.com**
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Passionate+Software+Developer;Building+Awesome+Projects;Learning+Flutter+%26+Dart;Always+Exploring+New+Tech!">
+</p>
+
+---
+
+- 🔭 I’m currently working on **<span style="color:#FFB000;">E-commerce Website</span>** 🛒  
+- 🌱 I’m learning **<span style="color:#00D4FF;">Flutter & Dart for Android Development</span>** 📱  
+- 👨‍💻 Check out my projects at: **[🌍 Portfolio Website](https://akvishportfolio.netlify.app/)**  
+- 📫 Reach me at: **✉️ akv7115@gmail.com**  
+
+---
+
+🎯 **Tech Stack:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,python,java" />
+</p>
+
 
 <!-- Connect With me -->
 <div align="center">
