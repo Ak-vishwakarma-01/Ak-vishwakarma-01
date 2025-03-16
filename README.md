@@ -2,17 +2,9 @@
 
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+<!-- Profile counts -->
+<img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-  <h2>✨ GitHub Stats ✨</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-vishwakarma-01&theme=aura&hide_border=true" width="50%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-vishwakarma-01&label=Profile%20views&color=0e75b6&style=flat" alt="ak-vishwakarma-01" /> </p>
 
