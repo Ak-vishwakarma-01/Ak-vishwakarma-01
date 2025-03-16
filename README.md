@@ -3,10 +3,9 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <!-- Profile counts -->
-<img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-vishwakarma-01&label=Profile%20views&color=0e75b6&style=flat" alt="ak-vishwakarma-01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ak-vishwakarma-01&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+ </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
 - 🌱 I’m currently learning **Android Application with Dart and Flutter**
