@@ -35,5 +35,5 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/Ak-vishwakarma-01/Ak-vishwakarma-01/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Ak-vishwakarma-01/Ak-vishwakarma-01/blob/output/github-snake.svg)
 </div>
