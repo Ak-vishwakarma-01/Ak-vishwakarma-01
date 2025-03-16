@@ -16,7 +16,7 @@
  
 <!-- About Me -->
 <div>
-  <h2 align="left">🚀 About Me</h2>
+  <h2 align="Center">🚀 About Me</h2>
 
 - 🔭 I’m currently working on **<span style="color:#FFB000;">E-commerce Website</span>** 🛒  
 - 🌱 I’m learning **<span style="color:#00D4FF;">Flutter & Dart for Android Development</span>** 📱
@@ -29,29 +29,24 @@
 
 <!-- Connect With me -->
 <div align="center">
-  <h2 align="left">🚀 Connect with Me:</h2>
+  <h2 align="center">🚀 Connect with Me:</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ak-vishwakarma0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://kaggle.com/ak1vishwakarma" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="https://fb.com/ak.vishwakarma.0" target="_blank">
+  <p align="center">
+    <a href="https://akvishportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+    <br>
+    <a href="https://www.linkedin.com/in/ak-vishwakarma0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/AK_VishwaKarma_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+    <br>
+    <a href="https://leetcode.com/ak_vishwakarma_1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/ak_vishwakarma_1"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
+    <a href="https://www.hackerrank.com/ak_vishwakarma_1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+    <a href="https://codeforces.com/profile/ak_vishwakarma_1"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/ak_vishwakarma"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+     <a href="https://fb.com/ak.vishwakarma.0" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://instagram.com/ak.vishwakarma.0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.hackerrank.com/ak_vishwakarma_1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.leetcode.com/ak_vishwakarma_1" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ak_vishwakarma_1" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks">
   </a>
 </p>
 </div>
