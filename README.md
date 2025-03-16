@@ -80,7 +80,7 @@
 <div align="center">
 
   <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=bf1313&center=true&vCenter=true&width=600&height=50&lines=aise..+aise..+aise..+💀+Khaunga+Sabko;Sab+Kha+😋+Jaunga;Le+Bhaiyaa+streak+Khatam" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1321bf&center=true&vCenter=true&width=600&height=50&lines=aise..+aise..+aise..+💀+Khaunga+Sabko;Sab+Kha+😋+Jaunga;Le+Bhaiyaa+streak......(❁´◡`❁)" alt="Typing SVG">
 </h3>
   
   ![snake gif](https://github.com/Ak-vishwakarma-01/Ak-vishwakarma-01/blob/output/github-snake-dark.svg)
