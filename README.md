@@ -62,7 +62,7 @@
   <h2 align="left">🎯 Tech Stack:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,flutter,dart,java,spring,cpp,python,nodejs,express,mongodb,mysql,postgres,mobile,git,linux,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,flutter,dart,java,spring,cpp,python,nodejs,express,mongodb,mysql,postgres,git,linux,tailwind,postman" />
 </p>
 
 </div>
@@ -71,6 +71,7 @@
 
 <!-- Stats -->
 <div align="center">
+  <h2 align="left"> 🔥 Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-vishwakarma-01&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-vishwakarma-01&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
