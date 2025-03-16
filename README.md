@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Software+Developer+from+India;I+Love+Building+Awesome+Things!;Open+Source+%7C+Web+%7C+Cloud+%7C+Tech+Enthusiast" alt="Typing SVG">
 </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ak-vishwakarma-01/ak-vishwakarma-01/main/assets/wave-3d.gif" width="120">
-</p>
 
 <!-- Profile counts -->
 
