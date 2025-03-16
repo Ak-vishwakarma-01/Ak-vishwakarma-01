@@ -83,24 +83,30 @@
 
 
 ---
+<!-- DSA Analytics -->
+### 📈 DSA Analytics
 
-<!-- LeetCode Stats -->
-<div align="center">
-  <h2 align="left">⚡ LeetCode Stats</h2>
-  <img src="https://leetcard.jacoblin.cool/ak_vishwakarma_1?theme=dark&font=Montserrat&ext=heatmap" width="50%" />
-</div>
+<p align="center">
+  <p align="center"><strong style='font-size:24px;'>🚀 LeetCode</strong></p>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/ak_vishwakarma_1">
+    <img src="https://leetcard.jacoblin.cool/ak_vishwakarma_1?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode Stats" />
+  </a>
+</p>
 
----
+<p align="center">
+  <p align="center"><strong style='font-size:24px;'>💡 GeeksforGeeks</strong></p>
+</p>
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/ak_vishwakarma_1/practice/">
+    <img src="https://gfgstatscard.vercel.app/ak_vishwakarma_1" alt="GFG Stats" />
+  </a>
+</p>
 
-<!-- GeeksforGeeks Stats -->
-<div align="center">
-  <h2 align="left">🚀 GeeksforGeeks Stats</h2>
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ak_vishwakarma_1" width="50%" />
-</div>
 
----
+<!-- Coding Ninjas 
 
-<!-- Coding Ninjas -->
 <div align="center">
   <h2 align="left">🎯 Coding Ninjas Profile</h2>
   <p>Check out my Coding Ninjas profile:</p>
@@ -109,21 +115,19 @@
   </a>
 </div>
 
----
 
-<!-- CodeChef Stats -->
 <div align="center">
   <h2 align="left">🥇 CodeChef Stats</h2>
   <img src="https://cp-logo.vercel.app/codechef/ak_vishwakarma" width="50%" />
 </div>
 
----
 
-<!-- Codeforces Stats -->
 <div align="center">
   <h2 align="left">🏆 Codeforces Stats</h2>
   <img src="https://cf.leed.at/ak_vishwakarma_1" width="50%" />
 </div>
+
+-->
 
 ---
 
