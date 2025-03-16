@@ -18,7 +18,7 @@
  
 <!-- About Me -->
 <div>
-  <h2 align="center">🚀 About Me</h2>
+  <h2 align="left">🚀 About Me</h2>
 
 - 🔭 I’m currently working on **<span style="color:#FFB000;">E-commerce Website</span>** 🛒  
 - 🌱 I’m learning **<span style="color:#00D4FF;">Flutter & Dart for Android Development</span>** 📱  
@@ -29,7 +29,7 @@
 
 <!-- Connect With me -->
 <div align="center">
-  <h2 align="center">🚀 Connect with Me:</h2>
+  <h2 align="left">🚀 Connect with Me:</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ak-vishwakarma0" target="_blank">
@@ -59,7 +59,7 @@
 
 <!-- Languages and Tools -->
 <div align="center">
-  ## 🎯 Tech Stack:
+  <h2 align="left">🎯 Tech Stack:</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,flutter,dart,java,spring,cpp,python,nodejs,express,mongodb,mysql,postgres,android,git,linux,tailwind,postman" />
