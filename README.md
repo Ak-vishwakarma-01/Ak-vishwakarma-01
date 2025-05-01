@@ -68,7 +68,7 @@
 
 ### 🛠️ Libraries & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,spring,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,dart,spring,nodejs,express,tailwind" />
 </p>  
 
 ### 📂 Databases  
