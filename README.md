@@ -19,7 +19,7 @@
   <h2 align="Center">🚀 About Me</h2>
 
 - 🔭 I’m currently working as Software Developer Intern at: **[Theody Svadhyay Trailblazer](https://theodysvadhyay.co.in/)** 🛒  
-- 🌱 I’m learning **<span style="color:#00D4FF;">Flutter & Dart for Android Development</span>** 📱
+- 🌱 I’m learning **<span style="color:#00D4FF;">Next.js </span>** 📱
 - 👨‍💻 Check out my Coding Profile at: **[🌍 Coding Profiles](https://codolio.com/profile/ak.vishwakarma.0/)** 🖥️ 
 - 👨‍💻 Check out my projects at: **[🌍 Portfolio Website](https://akvishportfolio.netlify.app/)**  
 - 📫 Reach me at: **✉️ akv7115@gmail.com**  
