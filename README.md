@@ -32,7 +32,7 @@
   <h2 align="center">🚀 Connect with Me:</h2>
 
   <p align="center">
-    <a href="https://akvishportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+    <a href="https://port-folio-git-main-ak-vishwa-01.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
     <br>
     <a href="https://www.linkedin.com/in/ak-vishwakarma0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://x.com/AK_VishwaKarma_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
