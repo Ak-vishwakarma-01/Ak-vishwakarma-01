@@ -21,7 +21,7 @@
 - 🔭 I’m currently working as Software Developer Intern at: **[Theody Svadhyay Trailblazer](https://theodysvadhyay.co.in/)** 🛒  
 - 🌱 I’m learning **<span style="color:#00D4FF;">Next.js </span>** 📱
 - 👨‍💻 Check out my Coding Profile at: **[🌍 Coding Profiles](https://codolio.com/profile/ak.vishwakarma.0/)** 🖥️ 
-- 👨‍💻 Check out my projects at: **[🌍 Portfolio Website](https://akvishportfolio.netlify.app/)**  
+- 👨‍💻 Check out my projects at: **[🌍 Portfolio Website](https://port-folio-git-main-ak-vishwa-01.vercel.app/)**  
 - 📫 Reach me at: **✉️ akv7115@gmail.com**  
 >
 
