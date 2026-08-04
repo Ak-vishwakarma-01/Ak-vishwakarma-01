@@ -91,7 +91,7 @@
 </p>
 <p align="center">
   <a href="https://leetcode.com/ak_vishwakarma_1">
-    <img src="https://leetcard.jacoblin.cool/ak_vishwakarma_1?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ak_vishwakarma?border=0&radius=10&theme=dark&ext=contest" alt="Leetcode Stats" />
   </a>
 </p>
 
