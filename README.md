@@ -37,7 +37,7 @@
     <a href="https://www.linkedin.com/in/ak-vishwakarma0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://x.com/AK_VishwaKarma_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
     <br>
-    <a href="https://leetcode.com/ak_vishwakarma_1/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+    <a href="https://leetcode.com/ak_vishwakarma/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
     <a href="https://auth.geeksforgeeks.org/user/ak_vishwakarma_1"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
     <a href="https://www.hackerrank.com/ak_vishwakarma_1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
     <a href="https://codeforces.com/profile/ak_vishwakarma_1"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
